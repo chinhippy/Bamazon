@@ -1,5 +1,5 @@
 {
-  "name": "bamazon-node.js-mysql",
+  "name": "newbam",
   "version": "1.0.0",
   "description": "",
   "main": "bamazonCustomer.js",
@@ -13,5 +13,14 @@
     "figlet": "^1.2.1",
     "inquirer": "^6.2.1",
     "mysql": "^2.16.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinhippy/Bamazon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chinhippy/Bamazon/issues"
+  },
+  "homepage": "https://github.com/chinhippy/Bamazon#readme"
 }
