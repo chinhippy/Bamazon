@@ -7,3 +7,5 @@ BAMAZON is a Amazon-esque storefront app that displays available products. The u
 ![image](https://user-images.githubusercontent.com/34128946/51081933-e0f28480-16c1-11e9-9e3e-83b16925d99f.png)
 
 ![image](https://user-images.githubusercontent.com/34128946/51081972-a89f7600-16c2-11e9-902f-f15aa52d45ff.png)
+
+### If the user has input their request AND there is enough inventory to complete the order, they will be given a "recap" of what was purchased and their total due. They will then be prompted to continue shopping or not.
