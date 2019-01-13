@@ -20,3 +20,5 @@ BAMAZON is a Amazon-esque storefront app that displays available products. The u
 
 ![image](https://user-images.githubusercontent.com/34128946/51082043-447db180-16c4-11e9-871e-34c7c35a0ce0.png)
 
+### If the User selects "NO" to continue shopping, the application will automatically exit.
+
