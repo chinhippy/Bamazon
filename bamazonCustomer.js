@@ -22,7 +22,7 @@ const Table = require('cli-table3');
       function displayProducts() {
         const query = "SELECT item_id, product_name, stock_quantity, price FROM products";
         connection.query(query, function (err, data) {
-          console.log(data)
+          // console.log(data)
 
           let table = new Table({
             head: ['ID', 'Product', 'Qty', 'Price'],
