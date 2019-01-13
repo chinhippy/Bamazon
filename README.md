@@ -17,3 +17,5 @@ BAMAZON is a Amazon-esque storefront app that displays available products. The u
 ![image](https://user-images.githubusercontent.com/34128946/51082022-b1dd1280-16c3-11e9-82cc-480330108ffb.png)
 
 ### If the user selects "YES" to continue shopping, the product list will be re-displayed with the updated quantity from previous purchase and prompted as to what they would like to purchase
+
+![image](https://user-images.githubusercontent.com/34128946/51082043-447db180-16c4-11e9-871e-34c7c35a0ce0.png)
