@@ -15,3 +15,5 @@ BAMAZON is a Amazon-esque storefront app that displays available products. The u
 ### If the user's order request exceeds the current inventory, they will receive a "error" message alerting them there are not enough of the specific product they are looking for in inventory, and to please try again.
 
 ![image](https://user-images.githubusercontent.com/34128946/51082022-b1dd1280-16c3-11e9-82cc-480330108ffb.png)
+
+### If the user selects "YES" to continue shopping, the product list will be re-displayed with the updated quantity from previous purchase and prompted as to what they would like to purchase
